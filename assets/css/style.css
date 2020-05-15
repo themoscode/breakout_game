@@ -1,0 +1,14 @@
+body {
+	
+	background:black;
+}
+
+canvas {
+    position: absolute;
+    top: 50%; left: 50%;
+    width: 310px;
+    height: 475px;
+    margin: -237px 0 0 -155px;
+    border:1px solid green;
+    border-radius:5px
+}
